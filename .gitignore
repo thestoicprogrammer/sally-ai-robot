@@ -1,0 +1,24 @@
+#libraries
+node_modules
+
+//Updated gitignore to ignore compiled typescript files
+#automatically generated files
+lib/**/*.js
+lib/**/*.js.map
+
+*.dat
+*.iml
+*.log
+*.out
+*.pid
+*.seed
+*.sublime*
+*.swo
+*.swp
+*.tgz
+*.xml
+.DS_Store
+.idea
+.project
+.strongpm
+coverage
